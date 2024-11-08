@@ -1,0 +1,27 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Afonso Tsukamoto
+theme: ["PaperMod"]
+
+
+# https://github.com/adityatelange/hugo-PaperMod
+params:
+  profileMode:
+    enabled: true
+    # title: "Afonso Tsukamoto" # optional default will be site title
+    subtitle: "Engineering Team Lead at **[Remote](https://remote.com/)**"
+    subsubtitle: "Previously **[EnjoyHQ](https://www.usertesting.com/platform/enjoyhq)** and **[Faber Ventures](https://www.faber.vc/)**"
+    imageUrl: "images/profile.jpeg" # optional
+    # imageTitle: "<title of image as alt>" # optional
+    # imageWidth: 120 # custom size
+    # imageHeight: 120 # custom size
+  socialIcons:
+    - name: github
+      url: "https://github.com/AfonsoTsukamoto"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/1904052/afonso-tsukamoto"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/afonso-tsukamoto"
+    - name: x
+      url: "https://x.com/tsukafonso"
+
