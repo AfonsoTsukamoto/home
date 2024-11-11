@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://afonsotsukamoto.com
 languageCode: en-us
 title: Afonso Tsukamoto
 theme: ["PaperMod"]
@@ -16,6 +16,8 @@ params:
     # imageWidth: 120 # custom size
     # imageHeight: 120 # custom size
   socialIcons:
+    - name: email
+      url: "mailto:hello@afonsotsukamoto.com"
     - name: github
       url: "https://github.com/AfonsoTsukamoto"
     - name: stackoverflow
